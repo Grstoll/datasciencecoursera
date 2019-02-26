@@ -1,2 +1,2 @@
 # datasciencecoursera
-## The data scientist's toolbox project
+The data scientist's toolbox project
